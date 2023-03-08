@@ -1,2 +1,5 @@
-# spire-plugins
-SPIRE external plugins
+# SPIRE external plugins
+
+## Credential composer plugins
+
+Allow to customize the SVIDs.
