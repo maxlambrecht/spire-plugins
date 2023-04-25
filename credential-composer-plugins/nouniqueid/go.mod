@@ -1,8 +1,8 @@
 module sentima.io/spire-plugins/credential-composer-no-extra-names
 
-go 1.19
+go 1.20
 
-require github.com/spiffe/spire-plugin-sdk v1.4.4-0.20230203133000-75d7213a0ba0
+require github.com/spiffe/spire-plugin-sdk v1.6.3
 
 require (
 	github.com/fatih/color v1.13.0 // indirect
